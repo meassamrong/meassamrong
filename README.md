@@ -27,8 +27,8 @@ I'm a passionate developer proficient in Node.js, PHP, Python, and Go. I special
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourlinkedinprofile/](https://jcorp-web.pages.dev/))
+[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)]([https://twitter.com/yourtwitterhandle](https://x.com/j_corp_kh))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourportfolio.com)
 
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to connect!
