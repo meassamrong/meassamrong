@@ -24,9 +24,12 @@ I'm a passionate developer proficient in Node.js, PHP, Python, and Go. I special
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## My GitHub Stats
+<a href="https://github.com/meassamrong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meassamrong&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+------------------
+<a href="https://github.com/meassamrong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meassamrong&layout=compact&theme=tokyonight" />
+</a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api?username=meassamrong&count_private=true&show_icons=true&theme=tokyonight)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=meassamrong&layout=compact&theme=tokyonight)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=meassamrong&layout=compact&theme=tokyonight)
+[![Samrong's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meassamrong&theme=tokyonight)](https://github.com/meassamrong/github-readme-stats)
